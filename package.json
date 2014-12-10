@@ -1,0 +1,26 @@
+{
+  "name": "theanswertolifetheuniverseandeverything",
+  "version": "1.0.0",
+  "description": "A Node.js npm module which returns the answer to life the universe and everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hitman666/TheAnswerToLifeTheUniverseAndEverything.git"
+  },
+  "keywords": [
+    "meaning",
+    "universe",
+    "life",
+    "douglas",
+    "adams"
+  ],
+  "author": "Nikola Brežnjak <nikola.breznjak@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hitman666/TheAnswerToLifeTheUniverseAndEverything/issues"
+  },
+  "homepage": "https://github.com/Hitman666/TheAnswerToLifeTheUniverseAndEverything"
+}
